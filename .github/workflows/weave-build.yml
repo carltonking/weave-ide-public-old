@@ -4,7 +4,7 @@ name: Weave build
 
 on:
   push:
-    branches: [main, 'weave/**']
+    branches: [main]
   pull_request:
   workflow_dispatch:
 
